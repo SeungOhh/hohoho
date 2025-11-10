@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chat Clone",
+  "description": "A web application that clones the core functionality of Google's Gemini, allowing users to have interactive, multi-modal conversations with an AI. It supports both text and image inputs and streams responses in real-time.",
+  "requestFramePermissions": []
+}
